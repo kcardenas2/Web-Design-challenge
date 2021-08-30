@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    background: #4aaaa5;
+}
+
+.navbar-brand{
+    height: 30px;
+    position:fixed;
+    background: #4aaaa5;
+}
+
+h3{
+    color:#4aaaa5;
+}
+
+.navbar-toggler{
+    padding:20px;
+}
+
+img{
+    height:100%;
+    weight:100%;
+}
